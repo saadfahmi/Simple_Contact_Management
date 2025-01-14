@@ -13,9 +13,9 @@ The **Simple Contact Management** program is a C-based project that allows users
 ## ⚙️ Requirements
 To compile and run the program, you need:
 - 🛠️ GCC (GNU Compiler Collection)
-- 💻 A terminal/command prompt
+- 💻 A terminal or command prompt
 
-## 🚀 How to Compile
+## 🚀 How to Compile Simple_Contact_Management.c
 To compile the program, run the following command in the terminal:
 ```bash
 gcc Simple_Contact_Management.c -o contact_manager
